@@ -1,11 +1,13 @@
 <div align="center">
 
-# Lama Alharbi
+# Lama Alharbi · لمى الحربي
 
 ### ✦ أهتدي بالبيانات · Guided by Data ✦
 
 **طالبة علوم بيانات في جامعة جدة**، أحوّل البيانات الخام إلى قرارات واضحة.
 **Data Science student at the University of Jeddah**, turning raw data into clear decisions.
+
+<a href="https://lama-alh.github.io"><img src="https://img.shields.io/badge/✦_Portfolio-lama--alh.github.io-FFD88A?style=for-the-badge&labelColor=12142B" alt="Portfolio"></a>
 
 </div>
 
@@ -24,6 +26,7 @@ Like desert travelers once navigated by the stars, I navigate by data: cleaning 
 | المشروع · Project | الوصف · Description | الأدوات · Tools |
 |---|---|---|
 | 🏨 [**Hotel Cancellation Prediction**](https://github.com/lama-alh/hotel-cancellation-prediction) | مشروع متكامل يتنبأ بإلغاء حجوزات الفنادق (ROC-AUC 0.95)، مع لوحة Power BI وتطبيق مباشر. <br> End-to-end project predicting hotel booking cancellations (ROC-AUC 0.95), with a Power BI dashboard and a live app. <br> 🔗 [Live app](https://predict-hotel-cancellations.streamlit.app) | Python · scikit-learn · Power BI · Streamlit |
+| 📈 **Where Did Prices Rise in Saudi Arabia?** | لوحة Power BI تحلل مؤشر أسعار المستهلك في ١٦ مدينة سعودية (٢٠١٩–٢٠٢٥). <br> Interactive Power BI dashboard analyzing CPI across 16 Saudi cities (2019–2025). | Power BI |
 | 📊 [**Bayanos · بيانوس**](https://github.com/lama-alh/bayanos) | أداة تحوّل ملف Excel أو CSV إلى تقرير منسّق خلال ثوانٍ، بالعربي والإنجليزي، والملف ما يطلع من جهازك. <br> Turns an Excel or CSV file into a finished bilingual report in seconds, entirely in the browser. <br> 🔗 [Live demo](https://lama-alh.github.io/bayanos) | JavaScript · HTML · CSS |
 
 ---
